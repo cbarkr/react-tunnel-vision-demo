@@ -95,7 +95,7 @@ export default function Home() {
               isEnabled={tunnelVisionIsEnabled}
             >
               <div className="flex flex-col h-full justify-center align-center text-center">
-                <p>Now you don't</p>
+                <p>Now you don&apos;t</p>
               </div>
             </TunnelVisionArea>
           </div>
