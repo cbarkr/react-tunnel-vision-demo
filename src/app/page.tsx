@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { TunnelVisionArea } from "@cbarkr/react-tunnel-vision";
+import { TunnelVisionArea } from "react-tunnel-vision";
 
 export default function Home() {
   const [tunnelVisionSize, setTunnelVisionSize] = useState(50);
